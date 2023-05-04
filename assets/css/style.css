@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*changed to ID and added new descripter*/
 #background {
     height: 800px;
     width: 100%;
@@ -143,7 +143,7 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
