@@ -32,7 +32,8 @@ N/A
 ## Usage
 To view this webpage with the refactoration update copy paste this link in a web browser: https://glansburg.github.io/Horiseon_Refactoration/ 
  ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/<img width="1248" alt="Refactor" src="https://user-images.githubusercontent.com/117139285/236340127-ef1546c5-1c08-4618-9310-88a48c10d19f.png">
+screenshot.png)
     ```
     
 ## Credits
